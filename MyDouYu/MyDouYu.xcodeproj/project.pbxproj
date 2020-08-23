@@ -56,6 +56,7 @@
 		4BB084B924F2329B00BF6060 /* MyDouYu */ = {
 			isa = PBXGroup;
 			children = (
+				4BB084CE24F261F800BF6060 /* Classes */,
 				4BB084BA24F2329B00BF6060 /* AppDelegate.swift */,
 				4BB084BC24F2329B00BF6060 /* SceneDelegate.swift */,
 				4BB084BE24F2329B00BF6060 /* ContentView.swift */,
@@ -73,6 +74,61 @@
 				4BB084C324F2329E00BF6060 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		4BB084CE24F261F800BF6060 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				4BB084D424F261F800BF6060 /* Main */,
+				4BB084CF24F261F800BF6060 /* Home */,
+				4BB084D324F261F800BF6060 /* Live */,
+				4BB084D024F261F800BF6060 /* Tools */,
+				4BB084D124F261F800BF6060 /* Follow */,
+				4BB084D224F261F800BF6060 /* Profile */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		4BB084CF24F261F800BF6060 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		4BB084D024F261F800BF6060 /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Tools;
+			sourceTree = "<group>";
+		};
+		4BB084D124F261F800BF6060 /* Follow */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Follow;
+			sourceTree = "<group>";
+		};
+		4BB084D224F261F800BF6060 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		4BB084D324F261F800BF6060 /* Live */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Live;
+			sourceTree = "<group>";
+		};
+		4BB084D424F261F800BF6060 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Main;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
